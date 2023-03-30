@@ -8,6 +8,8 @@ metrics are organized as follows:
 * Stereotypical bias metrics at the local level (`dataset_bias_metrics.local_stereotypical`)
 * Some visualization tools (`dataset_bias_metrics.visualization`)
 
+For the details on the bias metrics included, please see our paper "Metrics for Dataset Demographic Bias: A Case Study on Facial Expression Recognition", available in [arXiv](https://arxiv.org/abs/2303.15889).
+
 ## Installation
 
 Binary installers for the latest released version are available at the [Python Package Index (PyPI)](https://pypi.org/project/dataset_bias_metrics).
