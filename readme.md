@@ -8,7 +8,7 @@ metrics are organized as follows:
 * Stereotypical bias metrics at the local level (`dataset_bias_metrics.local_stereotypical`)
 * Some visualization tools (`dataset_bias_metrics.visualization`)
 
-For the details on the bias metrics included, please see our paper "Metrics for Dataset Demographic Bias: A Case Study on Facial Expression Recognition", available in [arXiv](https://arxiv.org/abs/2303.15889).
+For the details on the bias metrics included, please see our paper "Metrics for Dataset Demographic Bias: A Case Study on Facial Expression Recognition", available in the [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/document/10420507).
 
 ## Installation
 
@@ -45,19 +45,6 @@ display(datasets['raf-db2'])
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
